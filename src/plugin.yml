@@ -1,0 +1,9 @@
+main: main.CodeDayLive
+name: CodeDayLive
+version: 1.0
+author: Jacob
+
+commands:
+  pong:
+    aliases: [ping]
+    description: Allows you to fly or maybe not.
